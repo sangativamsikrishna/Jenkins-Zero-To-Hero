@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sprint-boot-app
-        image: sangativamsikrishna/ultimate-cicd:replaceImageTag
+        image: sangativamsikrishna/ultimate-cicd:3
         ports:
         - containerPort: 8080
