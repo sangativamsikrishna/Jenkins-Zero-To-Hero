@@ -27,7 +27,7 @@ Install Java
 
 ```
 sudo apt update
-sudo apt install openjdk-11-jre
+sudo apt install openjdk-17-jre
 ```
 
 Verify Java is Installed
